@@ -1,0 +1,14 @@
+07/20/2022 08:27:50 PM - ExplicitWaitType - INFO: Element found with locator: inputEmail and  locatorType: id
+07/20/2022 08:27:50 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="1ce1ce73-b613-4105-9eb0-d3c9fed76777")>
+07/20/2022 08:27:51 PM - ExplicitWaitType - INFO: Element found with locator: inputPassword and  locatorType: id
+07/20/2022 08:27:51 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="9627da0d-dfa8-4eec-a06b-810cb83ffe07")>
+07/20/2022 08:27:51 PM - ExplicitWaitType - INFO: Element found with locator: btnLogin and  locatorType: id
+07/20/2022 08:27:55 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="907e9ca2-0f1d-4a6a-8393-85356bb16af1")>
+07/20/2022 08:27:58 PM - ExplicitWaitType - INFO: Element found with locator: user and  locatorType: id
+07/20/2022 08:27:58 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="4f1c36fc-b9ce-4a58-b0dd-c4b0d28c2344")>
+07/20/2022 08:27:58 PM - ExplicitWaitType - INFO: Element found with locator: login and  locatorType: id
+07/20/2022 08:27:58 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="0cbb64d1-73fb-452e-97fb-6ce690e1a8dd")>
+07/20/2022 08:28:01 PM - ExplicitWaitType - INFO: Element found with locator: password and  locatorType: id
+07/20/2022 08:28:01 PM - ExplicitWaitType - INFO: Sent data on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="b21b70e8-74ed-4451-8839-5fa18a5e1aa4")>
+07/20/2022 08:28:01 PM - ExplicitWaitType - INFO: Element found with locator: login-submit and  locatorType: id
+07/20/2022 08:28:01 PM - ExplicitWaitType - INFO: Clicked on element with locator: <selenium.webdriver.remote.webelement.WebElement (session="785a5c0887b98eab624018ffe8cee972", element="029fa78d-4082-4fe0-90ea-87e78dac8fee")>
